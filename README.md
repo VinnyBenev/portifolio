@@ -9,5 +9,5 @@ This web application was made for showing my skills on Information Security and 
 <strong>HTML</strong><br>
 <strong>TailwindCSS</strong><br>
 <strong>NodeJS</strong><br>
-=======
+==============================================================================<br>
 Link to my portifolio: https://portifolio-vinicius-benevento.vercel.app/
